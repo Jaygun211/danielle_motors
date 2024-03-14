@@ -135,7 +135,7 @@
                     }
 
                     echo '<tr>
-                            <td><img src="../'.$product_image.'" class="img-fluid" alt="" srcset=""></td>
+                            <td><img src="../'.$product_image.'" class="img-fluid" alt="" srcset="" style="width: 100px; height: 100px;"></td>
                             <td>'.$product_name.'</td>
                             <td>'.$product_sku.'</td>
                             <td>'.$product_upc.'</td>
